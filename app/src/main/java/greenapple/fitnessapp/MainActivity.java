@@ -73,3 +73,4 @@ public class MainActivity extends ActionBarActivity {
 //some changes for release
 //more coding
 //mode coding
+//final coding for release 1.1.0
