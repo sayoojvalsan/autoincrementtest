@@ -67,3 +67,4 @@ public class MainActivity extends ActionBarActivity {
 //some commit
 //more chages
 //some more chages
+//some changes towards release 
