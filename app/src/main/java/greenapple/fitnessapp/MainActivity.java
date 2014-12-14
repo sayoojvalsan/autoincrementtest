@@ -69,3 +69,4 @@ public class MainActivity extends ActionBarActivity {
 //some more chages
 //some changes towards release
 //fixed some qa issues
+//some new features
